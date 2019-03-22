@@ -1,0 +1,50 @@
+.dark{
+	background-color: #CDCDCD;
+}
+.dark header {
+	background-color: #5F5F60;
+}
+.dark .categories{
+	background-color: #B6B6B6;
+}
+.dark .categories > .cat-item{
+	background-color: #B6B6B6;
+}
+.dark .categories > .cat-item:hover{
+	background-color: #605F5F;
+}
+.dark .head-content .block{
+	background-color: #B6B6B6;
+}
+.dark .head-content .block:hover{
+	background-color: #605F5F;	
+}
+.dark .favourite{
+	background-color: #B6B6B6;
+}
+.dark .sidepanel1{
+	background-color: #605F5F;
+}
+.dark .ss .categories{
+	background-color: #fff;
+}
+.dark .ss .categories > .cat-item{
+	background-color: #fff;
+}
+.dark .ss .categories > .cat-item:hover{
+	background-color: #B6B6B6;
+}
+.dark .panel-book{
+	background-color: #CDCDCD;
+}
+.dark .tags span{
+	background-color: rgba(96,95,95,.4);
+}
+.reservate, .add, .share{
+	border-color: rgba(96,95,95,1);
+	color: rgba(96,95,95,1);
+}
+.reservate:hover, .add:hover, .share:hover{
+	border-color: rgba(96,95,95,.5);
+	color: rgba(96,95,95,.5);
+}
